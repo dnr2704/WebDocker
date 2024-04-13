@@ -24,9 +24,12 @@ namespace webdocker.Controllers
         }
 
         public IActionResult Servicos()
+        {            
+            return View();
+        }
+
+        public IActionResult Login()
         {
-            string a = string.Empty;
-            string b = string.Empty;
             return View();
         }
 
