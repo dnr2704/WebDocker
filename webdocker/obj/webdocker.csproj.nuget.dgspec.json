@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\webdocker.csproj": {}
+    "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\webdocker.csproj": {}
   },
   "projects": {
-    "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\webdocker.csproj": {
+    "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\webdocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\webdocker.csproj",
+        "projectUniqueName": "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\webdocker.csproj",
         "projectName": "webdocker",
-        "projectPath": "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\webdocker.csproj",
+        "projectPath": "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\webdocker.csproj",
         "packagesPath": "C:\\Users\\Darlan\\.nuget\\packages\\",
-        "outputPath": "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\obj\\",
+        "outputPath": "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

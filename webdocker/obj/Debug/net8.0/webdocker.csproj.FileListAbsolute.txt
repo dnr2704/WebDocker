@@ -28,3 +28,4 @@ D:\Note\aspx\webdocker\webdocker\webdocker\obj\Debug\net8.0\refint\webdocker.dll
 D:\Note\aspx\webdocker\webdocker\webdocker\obj\Debug\net8.0\webdocker.pdb
 D:\Note\aspx\webdocker\webdocker\webdocker\obj\Debug\net8.0\webdocker.genruntimeconfig.cache
 D:\Note\aspx\webdocker\webdocker\webdocker\obj\Debug\net8.0\ref\webdocker.dll
+D:\Note\aspx\WebDocker\WebDocker\webdocker\obj\Debug\net8.0\webdocker.sourcelink.json

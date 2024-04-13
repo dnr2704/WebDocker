@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HGLcO2bQJckcxGzFhi11uEZ3koZ0Q8YjWxddoYm8d4UApf34hK8dQ/mZf0wU3idvZsOr15aNHJPR1km/t0VFbg==",
+  "dgSpecHash": "qIFkzvYcLj4oyyYrUtrQ6dQI5UOuZL3I83Aa85XBgdvLpuSreNhOGql+PargUepTzSt5MgVylqDpU87FOmzsNA==",
   "success": true,
-  "projectFilePath": "D:\\Note\\aspx\\webdocker\\webdocker\\webdocker\\webdocker.csproj",
+  "projectFilePath": "D:\\Note\\aspx\\WebDocker\\WebDocker\\webdocker\\webdocker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
