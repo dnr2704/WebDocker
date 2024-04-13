@@ -30,6 +30,7 @@ namespace webdocker.Controllers
 
         public IActionResult Login()
         {
+            string a = "a";
             return View();
         }
 
