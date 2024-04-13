@@ -23,7 +23,7 @@ namespace webdocker.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Servicos()
         {
             return View();
         }
