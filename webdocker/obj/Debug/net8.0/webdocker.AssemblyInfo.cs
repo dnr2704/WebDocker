@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webdocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2c1e12f690909d7d0d1732285bab9d6b8a557dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad742164d8aa1670cdd061daad20443eea7a1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("webdocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webdocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
